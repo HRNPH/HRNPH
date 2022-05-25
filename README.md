@@ -15,7 +15,9 @@
     <b>Who Spends 4hrs a day self study programming,</b>
     loved to develop something useful / fun,
     <br>I devoted my life and time to the joy of learning</br>
-    <br><b>I Hate School, But I loved Education!</b></br>
+    <br><b>I Hate School, But I loved Education!</b>
+        <b>So I'll just learn everything myself!</b>    
+    </br>
   </em>
 </p>
 
