@@ -50,13 +50,16 @@
 <p align="center">
   <i><b>Main Libs:</b></i>
   <br><br>
+  <img align="center" src="contents/tools/numpy.png" width="50px" />&nbsp;
   <img align="center" src="contents/tools/pandas.png" width="100px" />&nbsp;
+  <img align="center" src="contents/tools/pt.png" width="50px" />&nbsp;
   <img align="center" src="contents/tools/tensorflow.png" width="40px" />&nbsp;
   <img align="center" src="contents/tools/requests.png" width="45px" />&nbsp;
   <img align="center" src="contents/tools/bf4.png" width="100px" />&nbsp;
   <img align="center" src="contents/tools/passport.svg" width="30px" />&nbsp;
   <img align="center" src="contents/tools/express.png" width="120px" />&nbsp;
-  <img align="center" src="contents/tools/discord.png" width="50px" />&nbsp;</p>
+  <img align="center" src="contents/tools/discord.png" width="50px" />&nbsp;
+</p>
 <hr>
 
 <h3 align="center">Education</h3>
