@@ -19,6 +19,7 @@
         <b>So I'll just learn everything myself!</b>    
     </br>
   </em>
+  feel free to contract me via Gmail!
 </p>
 
 <p align="center">___________</p>
