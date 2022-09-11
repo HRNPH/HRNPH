@@ -63,24 +63,14 @@
 </p>
 <hr>
 
-<h3 align="center">Education</h3>
-<table align="center">
-  <tr>
-    <td>High school</td>
-    <td>NMRSW2 <b>(Specialized English Program)</b></td>
-  </tr>
-  <tr>
-    <td>Senior high school</td>
-    <td>NMRSW2 <b>(English-Japanese)</b></td>
-  </tr>
-<table>
-
+<h3 align="center">Contacts</h3>
+<p align="center">For work <a href = "mailto: Hirunkul2548@gmail.com">Hirunkul2548@gmail.com</a></p>
 <div align="center">
 
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/hrnph)
   [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCTCjINFxvBTkqD0ihWPTz8g)
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://github.com/HRNPH)
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://hrnph.github.io/) 
+  [<img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://hrnph.github.io/) 
 
 </div>
 
