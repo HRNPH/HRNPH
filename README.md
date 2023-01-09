@@ -5,9 +5,10 @@
   <b><i>Hello, I'm HRN</i></b>
   <p>Hirunkul Phimsiri</p>
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
-  
-</h1>
+  <img src="http://wakatime.server.devcommu.me/api/badge/hrnph/hrnph/" alt="walatime_badge" />
 
+</h1>
+  
 
 <p align="center">
   <em>
