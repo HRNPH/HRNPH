@@ -20,7 +20,7 @@
         <b>So I'll just learn everything myself!</b>    
     </br>
   </em>
-  feel free to contract me via 
+  feel free to contract me via Email
   !
 </p>
 
