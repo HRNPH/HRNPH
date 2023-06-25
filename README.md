@@ -2,7 +2,7 @@
 
   <a href="url"><img src="https://avatars.githubusercontent.com/u/51855316?v=4" height="auto" width="200" style="border-radius:50%"></a>
 
-  <b><i>Hello, I'm HRN</i></b>
+  <b><i>Hello, I'm HRNPH</i></b>
   <p>Hirunkul Phimsiri</p>
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
   <img src="http://wakatime.server.devcommu.me/api/badge/hrnph/hrnph/" alt="wakatime_badge" />
