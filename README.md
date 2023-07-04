@@ -43,10 +43,11 @@
   <i><b>Languages Currently Learning:</b></i>
   <br><br>
   <img align="center" src="contents/languages/python.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/nodejs.svg" width="50px" />&nbsp;
+  & WebStuff with JS, App Stuff With JS & Dart
+<!--   <img align="center" src="contents/languages/nodejs.svg" width="50px" />&nbsp;
   <img align="center" src="contents/languages/html.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/css.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/js.png" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/js.png" width="50px" />&nbsp; -->
 </p>
 
 <hr></hr>
