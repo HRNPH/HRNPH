@@ -57,11 +57,9 @@
   <img align="center" src="contents/tools/pandas.png" width="100px" />&nbsp;
   <img align="center" src="contents/tools/pt.png" width="50px" />&nbsp;
   <img align="center" src="contents/tools/tensorflow.png" width="40px" />&nbsp;
-  <img align="center" src="contents/tools/requests.png" width="45px" />&nbsp;
-  <img align="center" src="contents/tools/bf4.png" width="100px" />&nbsp;
-  <img align="center" src="contents/tools/passport.svg" width="30px" />&nbsp;
-  <img align="center" src="contents/tools/express.png" width="120px" />&nbsp;
-  <img align="center" src="contents/tools/discord.png" width="50px" />&nbsp;
+  <img align="center" src="contents/tools/react.png" width="45px" />&nbsp;
+  <img align="center" src="contents/tools/nextjs" width="45px" />&nbsp;
+  <img align="center" src="contents/tools/docker" width="45px" />&nbsp;
 </p>
 <hr>
 
