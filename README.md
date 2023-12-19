@@ -58,8 +58,8 @@
   <img align="center" src="contents/tools/pt.png" width="50px" />&nbsp;
   <img align="center" src="contents/tools/tensorflow.png" width="40px" />&nbsp;
   <img align="center" src="contents/tools/react.png" width="45px" />&nbsp;
-  <img align="center" src="contents/tools/nextjs" width="45px" />&nbsp;
-  <img align="center" src="contents/tools/docker" width="45px" />&nbsp;
+  <img align="center" src="contents/tools/nextjs.png" width="45px" />&nbsp;
+  <img align="center" src="contents/tools/docker.png" width="45px" />&nbsp;
 </p>
 <hr>
 
