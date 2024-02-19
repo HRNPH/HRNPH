@@ -10,7 +10,6 @@
 
 <p align="center">
   <em>
-    An indie <b>EX-Highschooler</b> in <b>Japanease-English</b> class <br>
     Currently in Computer Engineering & Digital Technology Program Chulalongkorn University<br>
     <b>Who Spends 4hrs a day self study programming,</b>
     loved to develop something useful / fun,
