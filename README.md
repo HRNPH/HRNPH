@@ -5,7 +5,7 @@
   <b><i>Hello, I'm HRNPH</i></b>
   <p>Hirunkul Phimsiri</p>
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
-  <img src="http://wakatime.server.devcommu.engineer/api/badge/hrnph/hrnph/" alt="wakatime_badge" />
+  <img src="http://wakatime.cedt.community/api/badge/hrnph/hrnph/" alt="wakatime_badge" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hrnph" alt="trophy">
   </a>
