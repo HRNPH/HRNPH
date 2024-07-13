@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
   <img src="http://wakatime.cedt.community/api/badge/hrnph/hrnph/" alt="wakatime_badge" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hrnph" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hrnph&row=1" alt="trophy">
   </a>
 </h1>
 <p align="center">
@@ -20,7 +20,7 @@
         <b>So I'll just learn everything myself!</b>    
     </br>
   </em>
-  feel free to contract me via Email
+  feel free to contact me via Email
   !
 </p>
 
