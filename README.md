@@ -27,7 +27,7 @@
 <p align="center">___________</p>
 <div align="center">
   
-🖥️ Learning DS, WEBDEV, APPDEV, and now I also need to work on sensor
+🖥️ Learning DS, WEBDEV, APPDEV
   
 🔭 currently working on Main Project & side project & Tons of shit
   
