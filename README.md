@@ -5,7 +5,7 @@
   <b><i>Hello, I'm HRNPH</i></b>
   <p>Hirunkul Phimsiri</p>
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
-  <img src="https://img.shields.io/endpoint?url=https://wakatime.cedt.community/api/compat/shields/v1/hrnph/interval:30_days&label=last 30d" alt="wakatime_badge" />
+  <img src="https://img.shields.io/endpoint?url=https://wakatime.cedt.community/api/compat/shields/v1/hrnph/interval:30_days&label=last30d" alt="wakatime_badge" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hrnph&row=1" alt="trophy">
   </a>
