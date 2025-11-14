@@ -13,15 +13,19 @@
 <p align="center">
   <em>
     Currently in Computer Engineering & Digital Technology Program Chulalongkorn University<br>
-    <b>Who Spends 4hrs a day self study programming,</b>
-    loved to develop something useful / fun,
+    loved to develop something useful / fun
     <br>I devoted my life and time to the joy of learning</br>
-    <br><b>I Hate School, But I loved Education!</b>
-        <b>So I'll just learn everything myself!</b>    
-    </br>
   </em>
-  feel free to contact me via Email
-  !
+  feel free to contact me via Email!
+</p>
+
+<p align="center">
+  I also Currently ran a software company in thailand so if you need some AI/Software Solution
+    <span>
+      <a href="https://solveserve.group/">
+        check it out
+      </a>
+    </span>
 </p>
 
 <p align="center">___________</p>
@@ -39,11 +43,11 @@
 
 <hr></hr>
 <p align="center">
-  <i><b>Languages Currently Learning:</b></i>
+  <i><b>Languages Used Professionally:</b></i>
   <br><br>
   <img align="center" src="contents/languages/python.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/typescript.png" width="50px" />&nbsp;
-  , App Stuff With TS & --Dart--
+  , App Stuff With React Native Typeshit
 <!--   <img align="center" src="contents/languages/nodejs.svg" width="50px" />&nbsp;
   <img align="center" src="contents/languages/html.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/css.png" width="50px" />&nbsp;
@@ -67,13 +71,15 @@
 <hr>
 
 <h3 align="center">Contacts</h3>
-<p align="center">For work <a href = "mailto: hrnph@protonmail.com">hrnph@protonmail.com</a></p>
+<p align="center">For work/personal/question <a href = "mailto: hrnph@protonmail.com">hrnph@protonmail.com</a></p>
+<p align="center">For enterprise work, Please contact ours team directly instead at <a href = "mailto: contact@solveserve.group">contact@solveserve.group</a></p>
 <div align="center">
 
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/hrnph)
   [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCTCjINFxvBTkqD0ihWPTz8g)
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://github.com/HRNPH)
   [<img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://hrnph.github.io/) 
+  [<img src="https://img.shields.io/badge/My Blog-%2800080.svg?&style=for-the-badge&logo=microsoft&logoColor=purple">](https://hrnph.github.io/) 
 
 </div>
 
