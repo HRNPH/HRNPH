@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
   <img src="https://img.shields.io/endpoint?url=https://wakatime.cedt.community/api/compat/shields/v1/hrnph/interval:30_days&label=last30d" alt="wakatime_badge" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app?username=hrnph&row=1" alt="trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hrnph&row=1" alt="trophy">
   </a>
 </h1>
 <p align="center">
